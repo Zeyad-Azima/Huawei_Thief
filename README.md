@@ -26,7 +26,6 @@ python3 Huawei_Thief.py list.txt
 
 <img src="https://i.ibb.co/fSZYHSL/Fire-Shot-Capture-003-DG8045-Home-Gateway-DG8045-197-45-105-79.png"/>
 
-<img src="https://i.ibb.co/fSZYHSL/Fire-Shot-Capture-003-DG8045-Home-Gateway-DG8045-197-45-105-79.png"/>
 ____________________________________________________________________________________________________________________________________________________
 
 # Author:
