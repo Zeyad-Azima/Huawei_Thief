@@ -1,4 +1,4 @@
-# Huawei_Thief
+# Huawei_Thief [ use it for penetration testing and ethical haching ]
 Huawei DG8045 &amp; HG633 Exploitation Tool
 
 
