@@ -22,11 +22,11 @@ python3 Huawei_Thief.py
 ```
 
 # Screenshot:
-<img src="https://ibb.co/WntbfYD"/>
+<img src="https://i.ibb.co/v1Y7kKs/Huawei-Thief.png"/>
 -------------------------------------------------
-<img src="https://ibb.co/x7hdpG8"/>
+<img src="https://i.ibb.co/fSZYHSL/Fire-Shot-Capture-003-DG8045-Home-Gateway-DG8045-197-45-105-79.png"/>
 -------------------------------------------------
-<img src="https://ibb.co/rtqGHtN"/>
+<img src="https://i.ibb.co/fSZYHSL/Fire-Shot-Capture-003-DG8045-Home-Gateway-DG8045-197-45-105-79.png"/>
 -------------------------------------------------
 
 # Author:
