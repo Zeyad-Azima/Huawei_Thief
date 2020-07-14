@@ -18,7 +18,7 @@ $ pip3 install -r requirements.txt
 
 # Run:
 ```
-python3 Huawei_Thief.py
+python3 Huawei_Thief.py list.txt
 ```
 
 # Screenshot:
