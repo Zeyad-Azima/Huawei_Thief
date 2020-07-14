@@ -22,13 +22,11 @@ python3 Huawei_Thief.py
 ```
 
 # Screenshot:
-<img src="https://i.imgur.com/DfxNG5I.png"/>
+<img src="https://ibb.co/WntbfYD"/>
 -------------------------------------------------
-<img src="https://i.imgur.com/h33t6fr.png"/>
+<img src="https://ibb.co/x7hdpG8"/>
 -------------------------------------------------
-<img src="https://i.imgur.com/yTjDJtK.png"/>
--------------------------------------------------
-<img src="https://i.imgur.com/0dAeypR.png"/>
+<img src="https://ibb.co/rtqGHtN"/>
 -------------------------------------------------
 
 # Author:
