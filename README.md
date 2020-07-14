@@ -1,2 +1,2 @@
 # Huawei_Thief
-Huawei DG8045 &amp; HG633 Exploiting Tool
+Huawei DG8045 &amp; HG633 Exploitation Tool
