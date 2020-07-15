@@ -56,7 +56,7 @@ def Huawei(tar):
             else:
                 print(stylize(f"[-] {ip} is not DG8045 OR HG633 ", colored.fg('red')))
                 print("-------------------------------------")
-        except Exception:
+        except ConnectionError:
             print(stylize(f'[-] {ip} Maybe is Down',colored.fg('red')))
             print("-------------------------------------")
 
