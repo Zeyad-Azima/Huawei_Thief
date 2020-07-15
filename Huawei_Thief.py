@@ -1,3 +1,8 @@
+#Author:    Zeyad Azima "Cyber-Atom"
+#Github:    https://github.com/Cyber-Atom
+#Facebook:  https://www.facebook.com/elkingzeyad.azeem
+#Website:   https://cyberatom.org/
+
 import requests,json,colored,sys,urllib3
 from colored import stylize
 
