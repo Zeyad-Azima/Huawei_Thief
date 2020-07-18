@@ -15,7 +15,7 @@ logo = ("""
 ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝╚═╝       ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝╚═╝       
                                      By: Zeyad Azima
                                https://github.com/Cyber-Atom   
-                 this tool works on DG8045 & HG633 Versions of Huawei devices
+                 This tool works on DG8045 & HG633 Versions of Huawei devices
 -------------------------------------------------------------------------------------------------
 """)
 
