@@ -1,4 +1,4 @@
-#Author:    Zeyad Azima "Cyber-Atom"
+#Author:    Zeyad Azima "Cyber-xWizardx"
 #Github:    https://github.com/Cyber-Atom
 #Facebook:  https://www.facebook.com/elkingzeyad.azeem
 #Website:   https://cyberatom.org/
