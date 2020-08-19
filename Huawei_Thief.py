@@ -1,5 +1,5 @@
 #Author:    Zeyad Azima "Cyber-xWizardx"
-#Github:    https://github.com/Cyber-Atom
+#Github:    https://github.com/Cyber-xWizardx
 #Facebook:  https://www.facebook.com/elkingzeyad.azeem
 #Website:   https://cyberatom.org/
 
