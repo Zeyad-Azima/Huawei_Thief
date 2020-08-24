@@ -1,5 +1,5 @@
 #Author:    Zeyad Azima "zWIZARDz"
-#Github:    https://github.com/zWIZARDz
+#Github:    https://github.com/Zeyad-Azima
 #Facebook:  https://www.facebook.com/elkingzeyad.azeem
 #Website:   https://cyberatom.org/
 
